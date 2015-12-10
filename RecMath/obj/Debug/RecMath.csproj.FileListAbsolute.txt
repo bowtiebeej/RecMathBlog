@@ -3,7 +3,6 @@ C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\RecMath.dll
 C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\RecMath.pdb
 C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\FluentNHibernate.dll
 C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\Iesi.Collections.dll
-C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\Newtonsoft.Json.dll
 C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\NHibernate.dll
 C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\Ninject.dll
@@ -35,3 +34,17 @@ C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\System.Web.WebPages.Razor.xml
 C:\Users\BJ\Documents\Blog\RecMath\RecMath\obj\Debug\RecMath.csprojResolveAssemblyReference.cache
 C:\Users\BJ\Documents\Blog\RecMath\RecMath\obj\Debug\RecMath.dll
 C:\Users\BJ\Documents\Blog\RecMath\RecMath\obj\Debug\RecMath.pdb
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\System.Net.Http.Extensions.dll
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\System.Net.Http.Primitives.dll
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\System.Net.Http.Extensions.xml
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\System.Net.Http.Primitives.xml
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\obj\Debug\RecMath.csproj.App.config
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\System.Net.Http.Formatting.dll
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\System.Web.Http.dll
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\System.Web.Http.WebHost.dll
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\System.Net.Http.Formatting.xml
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\System.Web.Http.xml
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\System.Web.Http.WebHost.xml
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\Aliencube.HtmlHelper.Extended.dll
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\Aliencube.HtmlHelper.Extended.pdb
+C:\Users\BJ\Documents\Blog\RecMath\RecMath\bin\Aliencube.HtmlHelper.Extended.xml

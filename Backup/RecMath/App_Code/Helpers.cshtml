@@ -1,0 +1,17 @@
+﻿@helper Tags(System.Web.Mvc.HtmlHelper htmlHelper,
+    IList<RecMath.Core.Objects.Tag> tags)
+    {
+        foreach (var tag in tags)
+        {            
+            <div class="tags-div">                
+                @RecMath.ActionLinkExtensions.TagLink(htmlHelper, tag)                
+            </div>                        
+        }
+    }
+
+<!--helper HelperName(string name) {
+    // your helper can contain code and/or markup, e.g.
+    // var msg = "Hello " + name;
+    // <p>msg</p>
+    // For more information, visit http://go.microsoft.com/fwlink/?LinkID=204658
+}-->

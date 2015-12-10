@@ -1,0 +1,4 @@
+C:\Users\BJ\Documents\Blog\RecMath\RecMath.Tests\obj\Debug\RecMath.Tests.csprojResolveAssemblyReference.cache
+C:\Users\BJ\Documents\Blog\RecMath\RecMath.Tests\obj\Debug\RecMath.Tests.Properties.Resources.resources
+C:\Users\BJ\Documents\Blog\RecMath\RecMath.Tests\obj\Debug\RecMath.Tests.csproj.GenerateResource.Cache
+C:\Users\BJ\Documents\Blog\RecMath\RecMath.Tests\obj\Debug\RecMath.Tests.csproj.App.config
