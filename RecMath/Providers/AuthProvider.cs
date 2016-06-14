@@ -20,7 +20,7 @@ namespace RecMath.Providers
 
         public bool Login(string username, string password)
         {
-            bool result = FormsAuthentication.Authenticate(username, password); //TODO: User Membership APIs
+            bool result = Membership.ValidateUser(username, password); //TODO: User Membership APIs
 
             if (result)
                 FormsAuthentication.SetAuthCookie(username, false);
